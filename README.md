@@ -10,7 +10,9 @@ Full stack Web Developer
 *   🚀  I'm currently working on [Addiction game website](http://github.com/Zinou-Lite/daw-project-2)
 *   🧠  I'm learning a new framework (vue js)
 *   🤝  I'm open to collaborating on Another projects
-*   ⚡  I'm the Batman here<a href="https://www.github.com/Zinou-Lite" target="_blank" rel="noreferrer"><img
+*   ⚡  I'm the Batman here
+
+<a href="https://www.github.com/Zinou-Lite" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/Zinou-Lite?logo=github&style=for-the-badge&color=ffffff&labelColor=1c1917" /></a><a href="https://www.x.com/lite_zinou" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/lite_zinou?logo=twitter&style=for-the-badge&color=ffffff&labelColor=1c1917"
                 /></a>
