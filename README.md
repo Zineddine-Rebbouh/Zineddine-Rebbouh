@@ -7,13 +7,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 *   🌍  I'm based in Algeria 
 
 
-*   🖥️  See my portfolio at [CamingSoon](http://CamingSoon)
+*   🖥️  See my portfolio at [here](https://my-portfolio-zineddine.vercel.app/)
 
 
 *   ✉️  You can contact me at [zinedinerabouh@gmail.com](mailto:zinedinerabouh@gmail.com)
-
-
-*   🚀  I'm currently working on [Addiction game website](http://github.com/Zinou-Lite/daw-project-2)
 
 
 *   🧠  I'm learning a new framework (vue js)
