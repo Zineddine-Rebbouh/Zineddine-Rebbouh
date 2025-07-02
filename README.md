@@ -1,76 +1,59 @@
-## 👋 Hi, I’m Zineddine Rebbouh
-
-### 💼 Full Stack Web Developer | MERN Stack | Data Enthusiast
-
----
-
-🔍 Based in **Touggourt, Algeria**  
-📫 Contact me at: [zinedinerabouh@gmail.com](mailto:zinedinerabouh@gmail.com)  
-🌐 Portfolio: [my-portfolio-zineddine.vercel.app](https://my-portfolio-zineddine.vercel.app)  
-💬 Open to freelance work, tech collaborations, and internship opportunities  
-🧠 Currently diving deeper into the **Data Science** field  
-🦇 Fun fact: I might just be the Batman of debugging 😉
+<h1 align="center">Hi 👋, I'm Zineddine Rebbouh</h1>
+<h3 align="center">A Full Stack Web Developer and Data Science Enthusiast from Algeria</h3>
 
 ---
 
-### 🧩 Technical Skills
+### 🌐 Connect With Me
 
-**Frontend**  
-- HTML5, CSS3, JavaScript, TypeScript  
-- React, Next.js  
-- Tailwind CSS, shadcn/ui, Material UI (MUI), Bootstrap  
-- Redux  
-
-**Backend**  
-- Node.js, Express.js  
-- Django, FastAPI  
-
-**Database**  
-- SQL, MySQL, PL/SQL  
-- MongoDB, Mongoose  
-- PostgreSQL  
-
-**Tools**  
-- Git & GitHub  
-- Postman, XAMPP  
-- Playwright (Testing)  
-- VS Code, PyCharm  
+<p align="left">
+  <a href="https://linkedin.com/in/zineddine-rebbouh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://fb.com/zineddine.rebbouh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+  <a href="https://instagram.com/rebbouh_zineddine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+</p>
 
 ---
 
-### 🚀 Projects
+- 🌍 I'm based in **Touggourt, Algeria**
+- 🌱 I’m currently diving deeper into **Data Science**
+- 👨‍💻 Portfolio: [my-portfolio-zineddine.vercel.app](https://my-portfolio-zineddine.vercel.app)
+- 📫 Contact me at: **zinedinerabouh@gmail.com**
+- 🤝 I’m open to freelance, internships, and collaboration
+- ⚡ Fun fact: **I might just be the Batman of debugging 😉**
 
-- **GameGuard** – A web platform for addiction assessment and professional feedback. Built with MERN stack.  
-- **HotelPro** – A hotel management app with admin controls, Cloudinary integration, and automated testing.  
-- **Modern Restaurant Website** – A stylish front-end site built with HTML, CSS, and JS.  
-- **E-Commerce Multivendor Platform** – A complete e-commerce solution for vendors and customers using MERN stack.
-
----
-
-### 🎓 Education
-
-**Bachelor of Computer Science**  
-University of Constantine 2 Abdelhamid Mehri  
-*Nov 2021 – Jun 2024*
-
-**Scientific Baccalaureate**  
-Abi Bakr Belkaid High School  
-*Jun 2021*
 
 ---
 
-### 🤝 Connect With Me
+### 🧩 Languages and Tools
 
-[![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)](https://www.linkedin.com/in/zineddine-rebbouh-14baa2268/)  
-[![GitHub](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg)](https://github.com/Zineddine-Rebbouh)  
-[![Instagram](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg)](https://instagram.com/zinou_lite)  
-[![Facebook](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg)](https://facebook.com/profile.php?id=100011042796601)  
-[![X](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg)](https://x.com/lite_zinou)  
-[![StackOverflow](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg)](https://stackoverflow.com/users/19698242/zinou-lite)
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/></a>
+  <a href="https://redux.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/></a>
+  <a href="https://mui.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/></a>
+  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/></a>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
-![Zineddine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zineddine-Rebbouh&show_icons=true&theme=dark&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zineddine-Rebbouh&layout=compact&theme=dark&hide_border=true)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zineddine-rebbouh&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zineddine-rebbouh&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+
+
