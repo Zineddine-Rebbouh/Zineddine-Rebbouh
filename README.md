@@ -2,21 +2,21 @@
 <h3 align="center">A Full Stack Web Developer and Data Science Enthusiast from Algeria</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <a href="https://linkedin.com/in/zineddine-rebbouh" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/zineddine.rebbouh" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/rebbouh_zineddine" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/zineddine_rebbouh" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zineddine-Rebbouh&show_icons=true&theme=radical" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zineddine-Rebbouh&theme=radical" alt="streak"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zineddine-Rebbouh&layout=compact&theme=radical"/>
-</p>
 ---
 
 - 🌍 I'm based in **Touggourt, Algeria**
@@ -78,6 +78,12 @@
 - Fast Learner  
 - Clean Code Practices
 
+---
+
+## 📂 Featured Projects
+- 🔗 [Portfolio Website](https://my-portfolio-zineddine.vercel.app) – Personal portfolio built with **Next.js & TailwindCSS**
+- 📊 Data Science Project – Built a **Recommendation System** using Python, Pandas, Scikit-learn
+- 🛒 E-commerce App – Full stack **React + Node.js + MongoDB** project with authentication & payments
 
 ---
 
