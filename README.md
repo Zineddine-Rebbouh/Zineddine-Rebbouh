@@ -23,11 +23,11 @@
   
 🌱 I’m currently diving deeper into **Data Science**
   
-👨‍💻 Portfolio:** [Portfolio](https://my-portfolio-zineddine.vercel.app)**
+👨‍💻 Portfolio: **[**Portfolio**](https://my-portfolio-zineddine.vercel.app)**
   
 📫 You can reach me on my email : **zinedinerabouh@gmail.com**
   
-🤝 I’m open to **freelance, internships, and collaboration**
+🤝 I’m open to **freelance**, **internships**, and **collaboration**
   
 📫 Hime me **[**Resume**](https://github.com/user-attachments/files/21953757/Zineddine-rebbouh-cv.1.pdf)**
   
