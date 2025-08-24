@@ -19,19 +19,19 @@
 
 ---
 
-- 🌍 I'm based in **Touggourt, Algeria**
+🌍 I'm based in **Touggourt, Algeria**
   
-- 🌱 I’m currently diving deeper into **Data Science**
+🌱 I’m currently diving deeper into **Data Science**
   
-- 👨‍💻 Portfolio: [Portfolio](https://my-portfolio-zineddine.vercel.app)
+👨‍💻 Portfolio: [Portfolio](https://my-portfolio-zineddine.vercel.app)
   
-- 📫 You can reach me on my email : **zinedinerabouh@gmail.com**
+📫 You can reach me on my email : **zinedinerabouh@gmail.com**
   
-- 🤝 I’m open to freelance, internships, and collaboration
-
-- Hime me [Resume](https://github.com/user-attachments/files/21953757/Zineddine-rebbouh-cv.1.pdf)
+🤝 I’m open to **freelance, internships, and collaboration**
   
-- ⚡ Fun fact: **I might just be the Batman of debugging 😉**
+📫 Hime me [**Resume**](https://github.com/user-attachments/files/21953757/Zineddine-rebbouh-cv.1.pdf)
+  
+⚡ Fun fact: **I might just be the Batman of debugging 😉**
 
 
 ---
