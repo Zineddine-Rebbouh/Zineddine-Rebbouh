@@ -80,14 +80,6 @@
 
 ---
 
-## 📂 Featured Projects
-- 🔗 [Portfolio Website](https://my-portfolio-zineddine.vercel.app) – Personal portfolio built with **Next.js & TailwindCSS**
-- 📊 Data Science Project – Built a **Recommendation System** using Python, Pandas, Scikit-learn
-- 🛒 E-commerce App – Full stack **React + Node.js + MongoDB** project with authentication & payments
-
-
----
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Zineddine-Rebbouh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
