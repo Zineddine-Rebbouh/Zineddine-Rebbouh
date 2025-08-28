@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Zineddine Rebbouh</h1>
-<h3>A Full Stack Web Developer and Data Science Enthusiast from Algeria</h3>
+<h3>A Full Stack Web Developer and Machine learining Enthusiast from Algeria</h3>
 
 <p>
   <a href="https://linkedin.com/in/zineddine-rebbouh" target="blank">
