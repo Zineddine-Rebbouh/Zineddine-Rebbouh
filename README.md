@@ -23,7 +23,7 @@
   
 🌱 I’m currently diving deeper into **Data Science**
   
-👨‍💻 Portfolio: **[**Portfolio**](https://my-portfolio-zineddine.vercel.app)**
+👨‍💻 Portfolio: **[**Portfolio**](https://zinedine-rebbouh-portfolio-website-7fv1rg3jz.vercel.app)**
   
 📫 You can reach me on my email : **zinedinerabouh@gmail.com**
   
