@@ -21,7 +21,7 @@
 
 🌍 I'm based in **Touggourt, Algeria**
   
-🌱 I’m currently diving deeper into **Data Science**
+🌱 I’m currently diving deeper into **Artificial intelligence**/**Data Science**/**Data Engineer**
   
 👨‍💻 Portfolio: **[**Portfolio**](https://zinedine-rebbouh-portfolio-website-7fv1rg3jz.vercel.app)**
   
