@@ -1,4 +1,4 @@
-# Hi, I'm Zineddine 👋
+# Hi, I'm Zineddine
  
 Full-stack developer from Touggourt, Algeria. Lately I've been spending most of my time in data science and data engineering — ML pipelines, MLOps, production deployments. I still build web apps when I want something people can actually click.
  
@@ -21,13 +21,13 @@ Full-stack developer from Touggourt, Algeria. Lately I've been spending most of 
 
 ---
 
-- 🌍 Based in **Touggourt, Algeria**
-- 🌱 Currently going deep on **AI / Data Science / Data Engineering**
-- 👨‍💻 **[Portfolio](https://zinedine-rebbouh-portfolio-website-7fv1rg3jz.vercel.app)**
-- 📄 **[Resume](https://github.com/user-attachments/files/21953757/Zineddine-rebbouh-cv.1.pdf)**
-- 📫 **zinedinerabouh@gmail.com**
-- 🤝 Open to freelance, internships, and collaboration
-- ⚡ I might just be the Batman of debugging 😉
+- Based in **Touggourt, Algeria**
+- Currently going deep on **AI / Data Science / Data Engineering**
+- **[Portfolio](https://zinedine-rebbouh-portfolio-website-7fv1rg3jz.vercel.app)**
+- **[Resume](https://github.com/user-attachments/files/21953757/Zineddine-rebbouh-cv.1.pdf)**
+- **zinedinerabouh@gmail.com**
+- Open to freelance, internships, and collaboration
+- I might just be the Batman of debugging 😉
 
 ---
 
