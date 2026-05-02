@@ -1,6 +1,10 @@
-# Hi, I'm Zineddine
+# Hi, I'm Zineddine 👋
  
-Full-stack developer from Touggourt, Algeria. Lately I've been spending most of my time in data science and data engineering — ML pipelines, MLOps, production deployments. I still build web apps when I want something people can actually click.
+Full-stack developer from Touggourt, Algeria — currently spending most of my time on data science and data engineering (ML pipelines, MLOps, production deployments). I still build web apps when I want something people can actually click. 
+
+Open to freelance, internships, and collaboration. 
+ 
+🌍 Touggourt, Algeria &nbsp;|&nbsp; 🌱 AI / Data Science / Data Engineering &nbsp;|&nbsp; 📫 [zinedinerabouh@gmail.com](mailto:zinedinerabouh@gmail.com) &nbsp;|&nbsp; 👨‍💻 [Portfolio](https://zinedine-rebbouh-portfolio-website-7fv1rg3jz.vercel.app) &nbsp;|&nbsp; 📄 [Resume](https://github.com/user-attachments/files/21953757/Zineddine-rebbouh-cv.1.pdf)
  
 <p>
   <a href="https://linkedin.com/in/zineddine-rebbouh" target="blank">
@@ -16,18 +20,6 @@ Full-stack developer from Touggourt, Algeria. Lately I've been spending most of 
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
 </p>
-
-
-
----
-
-- Based in **Touggourt, Algeria**
-- Currently going deep on **AI / Data Science / Data Engineering**
-- **[Portfolio](https://zinedine-rebbouh-portfolio-website-7fv1rg3jz.vercel.app)**
-- **[Resume](https://github.com/user-attachments/files/21953757/Zineddine-rebbouh-cv.1.pdf)**
-- **zinedinerabouh@gmail.com**
-- Open to freelance, internships, and collaboration
-- I might just be the Batman of debugging 😉
 
 ---
 
