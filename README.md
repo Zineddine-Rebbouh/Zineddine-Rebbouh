@@ -31,7 +31,22 @@ Full-stack developer from Touggourt, Algeria. Lately I've been spending most of 
 
 ---
 
-## 🚀 Tech Stack
+ 
+## What I've built
+ 
+On the web side: a multi-vendor e-commerce platform (MERN), a hotel management app with Playwright testing, an AI email marketing chatbot (Next.js + Stripe + Pusher), and a Flutter travel app. Built during my CS degree — the code isn't perfect but it all runs.
+ 
+On the data side, which is where I'm putting most of my hours now: 
+  customer segmentation with K-Means + PCA 
+  a full MLOps pipeline for insurance cross-sell prediction (experiment tracking, Docker, deployment)
+  Walmart sales forecasting with LightGBM/XGBoost
+  traffic sign recognition with CNNs
+  real-time Arabic sports trend detection platform. 
+  I'm also going through the Data Engineering Zoomcamp —pipelines, dbt, batch vs streaming, that kind of thing.
+
+---
+
+## Tech Stack
 
 ### Programming & Frameworks:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -48,7 +63,7 @@ Full-stack developer from Touggourt, Algeria. Lately I've been spending most of 
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🤖 Machine Learning & AI:
+### Machine Learning & AI:
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
@@ -58,7 +73,7 @@ Full-stack developer from Touggourt, Algeria. Lately I've been spending most of 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4EABD8?style=for-the-badge&logo=seaborn&logoColor=white)
 
-### 🛠️ Tools & Platforms:
+### Tools & Platforms:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -67,7 +82,7 @@ Full-stack developer from Touggourt, Algeria. Lately I've been spending most of 
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🌟 Other Skills:
+### Other Skills:
 - RESTful APIs  
 - Celery  
 - Fast Learner  
@@ -75,30 +90,19 @@ Full-stack developer from Touggourt, Algeria. Lately I've been spending most of 
 
 ---
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Zineddine-Rebbouh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Zineddine-Rebbouh&theme=dark&hide_border=false)<br/>
+## GitHub Stats
+ 
+![](https://github-readme-stats.vercel.app/api?username=Zineddine-Rebbouh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Zineddine-Rebbouh&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zineddine-Rebbouh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
 ---
 
-
-## 🏆 GitHub Trophies
+## GitHub Trophies
+ 
 ![](https://github-profile-trophy.vercel.app/?username=Zineddine-Rebbouh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
+ 
 ---
-
-
-### ✍️ Dev Quote
+ 
+### Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Zineddine-Rebbouh&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
