@@ -4,7 +4,7 @@ Full-stack developer from Touggourt, Algeria — currently spending most of my t
 
 Open to freelance, internships, and collaboration. 
  
-🌍 Touggourt, Algeria &nbsp;|&nbsp; 🌱 AI / Data Science / Data Engineering &nbsp;|&nbsp; 📫 [zinedinerabouh@gmail.com](mailto:zinedinerabouh@gmail.com) &nbsp;|&nbsp; 👨‍💻 [Portfolio](https://zinedine-rebbouh-portfolio-website-7fv1rg3jz.vercel.app) &nbsp;|&nbsp; 📄 [Resume]([https://github.com/user-attachments/files/21953757/Zineddine-rebbouh-cv.1.pdf](https://github.com/Zineddine-Rebbouh/Zineddine-Rebbouh/blob/main/Zineddine_Rebbouh_CV-Full%20Stack%20Engineer.pdf))
+🌍 Touggourt, Algeria &nbsp;|&nbsp; 🌱 AI / Data Science / Data Engineering &nbsp;|&nbsp; 📫 [zinedinerabouh@gmail.com](mailto:zinedinerabouh@gmail.com) &nbsp;|&nbsp; 👨‍💻 [Portfolio](https://zinedine-rebbouh-portfolio-website-7fv1rg3jz.vercel.app) &nbsp;|&nbsp; 📄 [Resume](https://github.com/user-attachments/files/21953757/Zineddine-rebbouh-cv.1.pdf)
  
 <p>
   <a href="https://linkedin.com/in/zineddine-rebbouh" target="blank">
