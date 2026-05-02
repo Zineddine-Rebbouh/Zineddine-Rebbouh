@@ -1,4 +1,4 @@
-# Hi, I'm Zineddine 👋
+# Hi, I'm Zineddine
  
 Full-stack developer from Touggourt, Algeria — currently spending most of my time on data science and data engineering (ML pipelines, MLOps, production deployments). I still build web apps when I want something people can actually click. 
 
