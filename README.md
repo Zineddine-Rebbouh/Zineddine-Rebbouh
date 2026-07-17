@@ -1,6 +1,6 @@
 # Hi, I'm Zineddine Rebbouh
  
-Full-stack developer from Touggourt, Algeria — currently spending most of my time on data science and data engineering (ML pipelines, MLOps, production deployments). I still build web apps when I want something people can actually click. 
+Full-stack developer from Touggourt, Algeria .currently spending most of my time on data science and data engineering (ML pipelines, MLOps, production deployments). I still build web apps when I want something people can actually click. 
 
 Open to freelance, internships, and collaboration. 
  
