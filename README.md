@@ -4,7 +4,7 @@ Full-stack developer from Touggourt, Algeria .currently spending most of my time
 
 Open to freelance, internships, and collaboration. 
  
-🌍 Touggourt, Algeria &nbsp;|&nbsp; 🌱 AI / Data Science / Data Engineering &nbsp;|&nbsp; 📫 [zinedinerabouh@gmail.com](mailto:zinedinerabouh@gmail.com) &nbsp;|&nbsp; 👨‍💻 [Portfolio](https://zinedine-rebbouh-portfolio-website-7fv1rg3jz.vercel.app) &nbsp;|&nbsp; 📄 [Resume](https://github.com/user-attachments/files/27443817/Zineddine_Rebbouh_CV_Fullstack.docx)
+🌍 Touggourt, Algeria &nbsp;|&nbsp; 🌱 AI / Data Science / Data Engineering &nbsp;|&nbsp; 📫 [zinedinerabouh@gmail.com](mailto:zinedinerabouh@gmail.com) &nbsp;|&nbsp; 👨‍💻 [Portfolio](https://zinedine-rebbouh-portfolio-website.vercel.app) &nbsp;|&nbsp; 📄 [Resume](https://github.com/user-attachments/files/27443817/Zineddine_Rebbouh_CV_Fullstack.docx)
  
 <p>
   <a href="https://linkedin.com/in/zineddine-rebbouh" target="blank">
@@ -34,7 +34,7 @@ On the data side, which is where I'm putting most of my hours now:
   Walmart sales forecasting with LightGBM/XGBoost
   traffic sign recognition with CNNs
   real-time Arabic sports trend detection platform. 
-  I'm also going through the Data Engineering Zoomcamp —pipelines, dbt, batch vs streaming, that kind of thing.
+  I'm also going through the llm Zoomcamp Bootcamp , RAG , Agentic AI , that kind of thing.
 
 ---
 
