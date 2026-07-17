@@ -26,7 +26,7 @@ Open to freelance, internships, and collaboration.
  
 ## What I've built
  
-On the web side: a multi-vendor e-commerce platform (MERN), a hotel management app with Playwright testing, an AI email marketing chatbot (Next.js + Stripe + Pusher), and a Flutter travel app. Built during my CS degree — the code isn't perfect but it all runs.
+On the web side: a multi-vendor e-commerce platform (MERN), a hotel management app with Playwright testing, an AI email marketing chatbot (Next.js + Stripe + Pusher), and a Flutter travel app. Built during my CS degree , the code isn't perfect but it all runs.
  
 On the data side, which is where I'm putting most of my hours now: 
   customer segmentation with K-Means + PCA 
