@@ -1,17 +1,11 @@
 # Hi, I'm Zineddine Rebbouh 👋
 
-<p>
-  <a href="#-english"><img src="https://img.shields.io/badge/🇬🇧-English-2ea44f?style=for-the-badge" /></a>
-  <a href="#-français"><img src="https://img.shields.io/badge/🇫🇷-Français-2ea44f?style=for-the-badge" /></a>
-  <a href="#-العربية"><img src="https://img.shields.io/badge/🇸🇦-العربية-2ea44f?style=for-the-badge" /></a>
-</p>
+Click a language below to expand it — collapse the others to keep just one showing.
 
-<sub>Pick a language above — it jumps to that section below. GitHub READMEs can't do real language-switch buttons (no JavaScript allowed), so all three versions live on this page.</sub>
+<details open>
+<summary><b>🇬🇧 English</b></summary>
 
----
-
-<a id="-english"></a>
-## 🇬🇧 English
+<br>
 
 Full-stack developer from Touggourt, Algeria. Currently spending most of my time on data science and data engineering (ML pipelines, MLOps, production deployments). I still build web apps when I want something people can actually click.
 
@@ -31,10 +25,12 @@ On the data side, which is where I'm putting most of my hours now:
 
 I'm also going through the LLM Zoomcamp — RAG, agentic AI, that kind of thing.
 
----
+</details>
 
-<a id="-français"></a>
-## 🇫🇷 Français
+<details>
+<summary><b>🇫🇷 Français</b></summary>
+
+<br>
 
 Développeur full-stack basé à Touggourt, Algérie. Je consacre actuellement le plus clair de mon temps à la data science et à l'ingénierie des données (pipelines ML, MLOps, déploiements en production). Je continue de développer des applications web quand j'ai envie de créer quelque chose que les gens peuvent réellement utiliser.
 
@@ -54,10 +50,12 @@ Côté data, là où je passe le plus de temps aujourd'hui :
 
 Je suis aussi en train de suivre le LLM Zoomcamp : RAG, agents IA, ce genre de choses.
 
----
+</details>
 
-<a id="-العربية"></a>
-## 🇸🇦 العربية
+<details>
+<summary><b>🇸🇦 العربية</b></summary>
+
+<br>
 
 <div dir="rtl">
 
@@ -81,22 +79,34 @@ Je suis aussi en train de suivre le LLM Zoomcamp : RAG, agents IA, ce genre de c
 
 </div>
 
----
+</details>
 
-<p>
-  <a href="https://linkedin.com/in/zineddine-rebbouh" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/zineddine.rebbouh" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/rebbouh_zineddine" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/zineddine_rebbouh" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-  </a>
-</p>
+<br>
+
+<table width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://linkedin.com/in/zineddine-rebbouh" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" />
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://fb.com/zineddine.rebbouh" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="35" width="45" />
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://instagram.com/rebbouh_zineddine" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="45" />
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://discord.gg/zineddine_rebbouh" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="35" width="45" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
