@@ -1,11 +1,9 @@
 # Hi, I'm Zineddine Rebbouh 👋
 
-Click a language below to expand it — collapse the others to keep just one showing.
-
-<details open>
-<summary><b>🇬🇧 English</b></summary>
-
-<br>
+<p>
+  <a href="README.fr.md"><img src="https://img.shields.io/badge/🇫🇷-Français-2ea44f?style=for-the-badge" /></a>
+  <a href="README.ar.md"><img src="https://img.shields.io/badge/🇸🇦-العربية-2ea44f?style=for-the-badge" /></a>
+</p>
 
 Full-stack developer from Touggourt, Algeria. Currently spending most of my time on data science and data engineering (ML pipelines, MLOps, production deployments). I still build web apps when I want something people can actually click.
 
@@ -13,7 +11,8 @@ Open to freelance, internships, and collaboration.
 
 🌍 Touggourt, Algeria &nbsp;|&nbsp; 🌱 AI / Data Science / Data Engineering &nbsp;|&nbsp; 📫 [zinedinerabouh@gmail.com](mailto:zinedinerabouh@gmail.com) &nbsp;|&nbsp; 👨‍💻 [Portfolio](https://zinedine-rebbouh-portfolio-website.vercel.app) &nbsp;|&nbsp; 📄 [Resume](https://github.com/user-attachments/files/27443817/Zineddine_Rebbouh_CV_Fullstack.docx)
 
-### What I've built
+## What I've built
+
 On the web side: a multi-vendor e-commerce platform (MERN), a hotel management app with Playwright testing, an AI email marketing chatbot (Next.js + Stripe + Pusher), and a Flutter travel app. Built during my CS degree — the code isn't perfect but it all runs.
 
 On the data side, which is where I'm putting most of my hours now:
@@ -25,63 +24,7 @@ On the data side, which is where I'm putting most of my hours now:
 
 I'm also going through the LLM Zoomcamp — RAG, agentic AI, that kind of thing.
 
-</details>
-
-<details>
-<summary><b>🇫🇷 Français</b></summary>
-
-<br>
-
-Développeur full-stack basé à Touggourt, Algérie. Je consacre actuellement le plus clair de mon temps à la data science et à l'ingénierie des données (pipelines ML, MLOps, déploiements en production). Je continue de développer des applications web quand j'ai envie de créer quelque chose que les gens peuvent réellement utiliser.
-
-Ouvert au freelance, aux stages et à la collaboration.
-
-🌍 Touggourt, Algérie &nbsp;|&nbsp; 🌱 IA / Data Science / Ingénierie des données &nbsp;|&nbsp; 📫 [zinedinerabouh@gmail.com](mailto:zinedinerabouh@gmail.com) &nbsp;|&nbsp; 👨‍💻 [Portfolio](https://zinedine-rebbouh-portfolio-website.vercel.app) &nbsp;|&nbsp; 📄 [CV](https://github.com/user-attachments/files/27443817/Zineddine_Rebbouh_CV_Fullstack.docx)
-
-### Ce que j'ai construit
-Côté web : une plateforme e-commerce multi-vendeurs (MERN), une application de gestion hôtelière avec des tests Playwright, un chatbot IA de marketing par email (Next.js + Stripe + Pusher), et une application de voyage en Flutter. Construits pendant mes études, le code n'est pas parfait mais tout fonctionne.
-
-Côté data, là où je passe le plus de temps aujourd'hui :
-- segmentation client avec K-Means + PCA
-- un pipeline MLOps complet pour la prédiction de vente croisée en assurance (suivi d'expériences, Docker, déploiement)
-- prévision des ventes Walmart avec LightGBM/XGBoost
-- reconnaissance de panneaux de signalisation avec des CNN
-- une plateforme de détection des tendances sportives arabes en temps réel
-
-Je suis aussi en train de suivre le LLM Zoomcamp : RAG, agents IA, ce genre de choses.
-
-</details>
-
-<details>
-<summary><b>🇸🇦 العربية</b></summary>
-
-<br>
-
-<div dir="rtl">
-
-مطوّر full-stack من تقرت، الجزائر. أقضي حاليًا معظم وقتي في علم البيانات وهندسة البيانات (خطوط أنابيب التعلّم الآلي، MLOps، النشر في بيئة الإنتاج). ما زلت أطوّر تطبيقات ويب عندما أرغب في بناء شيء يمكن للناس استخدامه فعليًا.
-
-متاح للعمل الحر، التدريب، والتعاون.
-
-🌍 تقرت، الجزائر &nbsp;|&nbsp; 🌱 الذكاء الاصطناعي / علم البيانات / هندسة البيانات &nbsp;|&nbsp; 📫 [zinedinerabouh@gmail.com](mailto:zinedinerabouh@gmail.com) &nbsp;|&nbsp; 👨‍💻 [الموقع الشخصي](https://zinedine-rebbouh-portfolio-website.vercel.app) &nbsp;|&nbsp; 📄 [السيرة الذاتية](https://github.com/user-attachments/files/27443817/Zineddine_Rebbouh_CV_Fullstack.docx)
-
-### ما الذي بنيته
-على صعيد الويب: منصة تجارة إلكترونية متعددة البائعين (MERN)، تطبيق لإدارة الفنادق مع اختبارات Playwright، روبوت محادثة بالذكاء الاصطناعي للتسويق عبر البريد الإلكتروني (Next.js + Stripe + Pusher)، وتطبيق سفر بلغة Flutter. بُنيت أثناء دراستي الجامعية — الكود ليس مثاليًا لكنه يعمل بالكامل.
-
-على صعيد البيانات، وهو ما أخصص له معظم وقتي حاليًا:
-- تجزئة العملاء باستخدام K-Means + PCA
-- خط أنابيب MLOps كامل للتنبؤ بالبيع التكميلي في التأمين (تتبع التجارب، Docker، النشر)
-- التنبؤ بمبيعات Walmart باستخدام LightGBM/XGBoost
-- التعرف على لافتات المرور باستخدام الشبكات العصبية التلافيفية (CNN)
-- منصة لرصد الاتجاهات الرياضية العربية في الوقت الفعلي
-
-كما أتابع حاليًا LLM Zoomcamp: RAG، والوكلاء الذكية (Agentic AI)، وما شابه.
-
-</div>
-
-</details>
-
-<br>
+---
 
 <table width="100%">
   <tr>
