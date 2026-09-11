@@ -1,11 +1,88 @@
-# Hi, I'm Zineddine Rebbouh
- 
-Full-stack developer from Touggourt, Algeria .currently spending most of my time on data science and data engineering (ML pipelines, MLOps, production deployments). I still build web apps when I want something people can actually click. 
+# Hi, I'm Zineddine Rebbouh 👋
 
-Open to freelance, internships, and collaboration. 
- 
+<p>
+  <a href="#-english"><img src="https://img.shields.io/badge/🇬🇧-English-2ea44f?style=for-the-badge" /></a>
+  <a href="#-français"><img src="https://img.shields.io/badge/🇫🇷-Français-2ea44f?style=for-the-badge" /></a>
+  <a href="#-العربية"><img src="https://img.shields.io/badge/🇸🇦-العربية-2ea44f?style=for-the-badge" /></a>
+</p>
+
+<sub>Pick a language above — it jumps to that section below. GitHub READMEs can't do real language-switch buttons (no JavaScript allowed), so all three versions live on this page.</sub>
+
+---
+
+<a id="-english"></a>
+## 🇬🇧 English
+
+Full-stack developer from Touggourt, Algeria. Currently spending most of my time on data science and data engineering (ML pipelines, MLOps, production deployments). I still build web apps when I want something people can actually click.
+
+Open to freelance, internships, and collaboration.
+
 🌍 Touggourt, Algeria &nbsp;|&nbsp; 🌱 AI / Data Science / Data Engineering &nbsp;|&nbsp; 📫 [zinedinerabouh@gmail.com](mailto:zinedinerabouh@gmail.com) &nbsp;|&nbsp; 👨‍💻 [Portfolio](https://zinedine-rebbouh-portfolio-website.vercel.app) &nbsp;|&nbsp; 📄 [Resume](https://github.com/user-attachments/files/27443817/Zineddine_Rebbouh_CV_Fullstack.docx)
- 
+
+### What I've built
+On the web side: a multi-vendor e-commerce platform (MERN), a hotel management app with Playwright testing, an AI email marketing chatbot (Next.js + Stripe + Pusher), and a Flutter travel app. Built during my CS degree — the code isn't perfect but it all runs.
+
+On the data side, which is where I'm putting most of my hours now:
+- customer segmentation with K-Means + PCA
+- a full MLOps pipeline for insurance cross-sell prediction (experiment tracking, Docker, deployment)
+- Walmart sales forecasting with LightGBM/XGBoost
+- traffic sign recognition with CNNs
+- a real-time Arabic sports trend detection platform
+
+I'm also going through the LLM Zoomcamp — RAG, agentic AI, that kind of thing.
+
+---
+
+<a id="-français"></a>
+## 🇫🇷 Français
+
+Développeur full-stack basé à Touggourt, Algérie. Je consacre actuellement le plus clair de mon temps à la data science et à l'ingénierie des données (pipelines ML, MLOps, déploiements en production). Je continue de développer des applications web quand j'ai envie de créer quelque chose que les gens peuvent réellement utiliser.
+
+Ouvert au freelance, aux stages et à la collaboration.
+
+🌍 Touggourt, Algérie &nbsp;|&nbsp; 🌱 IA / Data Science / Ingénierie des données &nbsp;|&nbsp; 📫 [zinedinerabouh@gmail.com](mailto:zinedinerabouh@gmail.com) &nbsp;|&nbsp; 👨‍💻 [Portfolio](https://zinedine-rebbouh-portfolio-website.vercel.app) &nbsp;|&nbsp; 📄 [CV](https://github.com/user-attachments/files/27443817/Zineddine_Rebbouh_CV_Fullstack.docx)
+
+### Ce que j'ai construit
+Côté web : une plateforme e-commerce multi-vendeurs (MERN), une application de gestion hôtelière avec des tests Playwright, un chatbot IA de marketing par email (Next.js + Stripe + Pusher), et une application de voyage en Flutter. Construits pendant mes études, le code n'est pas parfait mais tout fonctionne.
+
+Côté data, là où je passe le plus de temps aujourd'hui :
+- segmentation client avec K-Means + PCA
+- un pipeline MLOps complet pour la prédiction de vente croisée en assurance (suivi d'expériences, Docker, déploiement)
+- prévision des ventes Walmart avec LightGBM/XGBoost
+- reconnaissance de panneaux de signalisation avec des CNN
+- une plateforme de détection des tendances sportives arabes en temps réel
+
+Je suis aussi en train de suivre le LLM Zoomcamp : RAG, agents IA, ce genre de choses.
+
+---
+
+<a id="-العربية"></a>
+## 🇸🇦 العربية
+
+<div dir="rtl">
+
+مطوّر full-stack من تقرت، الجزائر. أقضي حاليًا معظم وقتي في علم البيانات وهندسة البيانات (خطوط أنابيب التعلّم الآلي، MLOps، النشر في بيئة الإنتاج). ما زلت أطوّر تطبيقات ويب عندما أرغب في بناء شيء يمكن للناس استخدامه فعليًا.
+
+متاح للعمل الحر، التدريب، والتعاون.
+
+🌍 تقرت، الجزائر &nbsp;|&nbsp; 🌱 الذكاء الاصطناعي / علم البيانات / هندسة البيانات &nbsp;|&nbsp; 📫 [zinedinerabouh@gmail.com](mailto:zinedinerabouh@gmail.com) &nbsp;|&nbsp; 👨‍💻 [الموقع الشخصي](https://zinedine-rebbouh-portfolio-website.vercel.app) &nbsp;|&nbsp; 📄 [السيرة الذاتية](https://github.com/user-attachments/files/27443817/Zineddine_Rebbouh_CV_Fullstack.docx)
+
+### ما الذي بنيته
+على صعيد الويب: منصة تجارة إلكترونية متعددة البائعين (MERN)، تطبيق لإدارة الفنادق مع اختبارات Playwright، روبوت محادثة بالذكاء الاصطناعي للتسويق عبر البريد الإلكتروني (Next.js + Stripe + Pusher)، وتطبيق سفر بلغة Flutter. بُنيت أثناء دراستي الجامعية — الكود ليس مثاليًا لكنه يعمل بالكامل.
+
+على صعيد البيانات، وهو ما أخصص له معظم وقتي حاليًا:
+- تجزئة العملاء باستخدام K-Means + PCA
+- خط أنابيب MLOps كامل للتنبؤ بالبيع التكميلي في التأمين (تتبع التجارب، Docker، النشر)
+- التنبؤ بمبيعات Walmart باستخدام LightGBM/XGBoost
+- التعرف على لافتات المرور باستخدام الشبكات العصبية التلافيفية (CNN)
+- منصة لرصد الاتجاهات الرياضية العربية في الوقت الفعلي
+
+كما أتابع حاليًا LLM Zoomcamp: RAG، والوكلاء الذكية (Agentic AI)، وما شابه.
+
+</div>
+
+---
+
 <p>
   <a href="https://linkedin.com/in/zineddine-rebbouh" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -23,23 +100,8 @@ Open to freelance, internships, and collaboration.
 
 ---
 
- 
-## What I've built
- 
-On the web side: a multi-vendor e-commerce platform (MERN), a hotel management app with Playwright testing, an AI email marketing chatbot (Next.js + Stripe + Pusher), and a Flutter travel app. Built during my CS degree , the code isn't perfect but it all runs.
- 
-On the data side, which is where I'm putting most of my hours now: 
-  customer segmentation with K-Means + PCA 
-  a full MLOps pipeline for insurance cross-sell prediction (experiment tracking, Docker, deployment)
-  Walmart sales forecasting with LightGBM/XGBoost
-  traffic sign recognition with CNNs
-  real-time Arabic sports trend detection platform. 
-  I'm also going through the llm Zoomcamp Bootcamp , RAG , Agentic AI , that kind of thing.
-
----
-
 ## Tech Stack
- 
+
 ### Programming & Frameworks:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -58,7 +120,7 @@ On the data side, which is where I'm putting most of my hours now:
 ![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
- 
+
 ### Machine Learning & AI:
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -71,7 +133,7 @@ On the data side, which is where I'm putting most of my hours now:
 ![Seaborn](https://img.shields.io/badge/Seaborn-4EABD8?style=for-the-badge&logo=seaborn&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
- 
+
 ### Data Engineering:
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
@@ -79,7 +141,7 @@ On the data side, which is where I'm putting most of my hours now:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
- 
+
 ### Tools & Platforms:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -90,19 +152,18 @@ On the data side, which is where I'm putting most of my hours now:
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
- 
+
 ### Other:
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
- 
 
 ---
 
 ## GitHub Stats
- 
+
 ![](https://github-readme-stats.vercel.app/api?username=Zineddine-Rebbouh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=Zineddine-Rebbouh&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zineddine-Rebbouh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -110,10 +171,10 @@ On the data side, which is where I'm putting most of my hours now:
 ---
 
 ## GitHub Trophies
- 
+
 ![](https://github-profile-trophy.vercel.app/?username=Zineddine-Rebbouh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
- 
+
 ---
- 
+
 ### Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
