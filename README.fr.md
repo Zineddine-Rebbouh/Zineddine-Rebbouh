@@ -20,8 +20,6 @@ Ouvert aux postes à temps plein, au freelance, et à tout ce qui commence par u
 
 <br clear="right"/>
 
-![divider](https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo/images/gradient-line.svg)
-
 ## ⭐ Projets phares
 
 Je me positionne d'abord en IA & ML, mais j'y suis arrivé après des années de travail full-stack, et c'est probablement pour ça que je me soucie encore de savoir si le projet fonctionne vraiment une fois la démo terminée.
