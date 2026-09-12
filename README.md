@@ -1,10 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:91AB8C,50:3E5C50,100:D9C589&height=200&section=header&text=Zineddine%20Rebbouh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20ML%20Engineer&descAlignY=55&descSize=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:91AB8C,50:3E5C50,100:D9C589&height=200&section=header&text=Zineddine%20Rebbouh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26amp%3B%20ML%20Engineer&descAlignY=55&descSize=20)
 
 <img align="right" width="280" alt="Coding" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 # Hi, I'm Zineddine Rebbouh <img width="30" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=91AB8C&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer;I+see+a+problem%2C+I+build+the+fix;I+ship+what+I+train;Fast+learner%2C+faster+shipper)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=91AB8C&center=true&vCenter=true&width=600&lines=AI+%26amp%3B+ML+Engineer;I+see+a+problem%2C+I+build+the+fix;I+ship+what+I+train;Fast+learner%2C+faster+shipper)](https://git.io/typing-svg)
 
 I see a problem, I build the thing that fixes it. Food going to waste, athletes priced out of proper tracking tools, businesses with no one to answer the phone at 2am. AI & ML-focused, full-stack by background, which is why I ship the model myself instead of throwing it over the wall to whoever deploys things. Got a rough idea? I'll build it, ship it, and keep it running.
 
