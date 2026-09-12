@@ -1,6 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:91AB8C,50:3E5C50,100:D9C589&height=200&section=header&text=Zineddine%20Rebbouh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26amp%3B%20ML%20Engineer&descAlignY=55&descSize=20)
 
-<p align="center"> <a href="README.md">🇬🇧 English</a> • <a href="README.ar.md">🇸🇦 العربية</a> • <a href="README.fr.md">🇫🇷 Français</a> </p> <img align="right" width="280" alt="Coding" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<p align="center">
+  <a href="README.md">en English</a> •
+  <a href="README.ar.md">ar العربية</a> •
+  <a href="README.fr.md">fr Français</a>
+</p> 
+<img align="right" width="280" alt="Coding" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 # Hi, I'm Zineddine Rebbouh <img width="30" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand">
 
