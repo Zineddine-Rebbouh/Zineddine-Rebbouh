@@ -1,6 +1,10 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Zineddine%20Rebbouh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=55&descSize=20)
+
 <img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 # Hi, I'm Zineddine Rebbouh <img width="30" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=I+see+a+problem%2C+I+build+the+fix;AI+%2F+ML+Engineer;Full-Stack+by+background;I+ship+what+I+build)](https://git.io/typing-svg)
 
 I see a problem, I build the thing that fixes it. Food going to waste, athletes priced out of proper tracking tools, businesses with no one to answer the phone at 2am. AI/ML-focused now, full-stack by background, which is why I ship the model myself instead of throwing it over the wall to whoever deploys things. Got a rough idea? I'll build it, ship it, and keep it running.
 
@@ -10,7 +14,7 @@ Open to full-time roles, freelance work, and anything that starts with a hard pr
 
 <br clear="right"/>
 
----
+![divider](https://capsule-render.vercel.app/api?type=transparent&height=30&section=footer)
 
 ## ⭐ Featured Projects
 
@@ -52,7 +56,7 @@ Most small businesses can't staff a 24/7 sales desk. This is the closest thing: 
 
 None of these were homework. I picked the problem, then built the thing. That's the part of this job I'd like to keep doing, just with a team and a real budget behind me instead of a laptop and stubbornness.
 
----
+![divider](https://capsule-render.vercel.app/api?type=transparent&height=30&section=footer)
 
 <table width="100%">
   <tr>
@@ -153,8 +157,21 @@ None of these were homework. I picked the problem, then built the thing. That's 
 ![](https://github-readme-stats.vercel.app/api?username=Zineddine-Rebbouh&show_icons=true&theme=dark&hide_border=false&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zineddine-Rebbouh&layout=compact&theme=dark&hide_border=false&langs_count=8)
 ![](https://nirzak-streak-stats.vercel.app/?user=Zineddine-Rebbouh&theme=dark&hide_border=false)
+![](https://github-profile-trophy.vercel.app/?username=Zineddine-Rebbouh&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1)
+
+---
+
+## Contribution Snake 🐍
+
+<!--START_SECTION:snake-->
+![snake gif](https://raw.githubusercontent.com/Zineddine-Rebbouh/Zineddine-Rebbouh/output/github-contribution-grid-snake-dark.svg)
+<!--END_SECTION:snake-->
+
+> This animation only shows up once the snake workflow runs on your profile repo. See the note below the file for the one-time setup.
 
 ---
 
 ### Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
