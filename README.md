@@ -19,8 +19,6 @@ Open to full-time roles, freelance work, and anything that starts with a hard pr
 
 <br clear="right"/>
 
-![divider](https://capsule-render.vercel.app/api?type=transparent&height=30&section=footer)
-
 ## ⭐ Featured Projects
 
 I lead with AI & ML, but I got there by way of years of full-stack work, and honestly that's probably why I still care whether the thing actually runs after the demo ends.
