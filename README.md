@@ -2,6 +2,8 @@
 
 <img align="right" width="280" alt="Coding" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
+<p align="center"> <a href="README.md">🇬🇧 English</a> • <a href="README.ar.md">🇸🇦 العربية</a> • <a href="README.fr.md">🇫🇷 Français</a> </p> <img align="right" width="280" alt="Coding" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+
 # Hi, I'm Zineddine Rebbouh <img width="30" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=91AB8C&center=true&vCenter=true&width=600&lines=AI+%26amp%3B+ML+Engineer;I+see+a+problem%2C+I+build+the+fix;I+ship+what+I+train;Fast+learner%2C+faster+shipper)](https://git.io/typing-svg)
