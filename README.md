@@ -34,8 +34,6 @@ Translates sign language into text in real time. The goal was simple: a conversa
 **[Real-Time Sports Trend Detection](https://github.com/Zineddine-Rebbouh/real-time-sports-trend-detection-main)**
 Almost nothing tracks trending sports moments in Arabic. This does, as they happen, not an hour later.
 
-### 💻 Software & Full-Stack
-
 **[Real Estate Platform](https://github.com/Zineddine-Rebbouh/real-estate-applicaiton)**
 House hunting is already stressful enough without a bad website. Buyers browse and save listings; agents actually get tools to manage theirs, instead of a spreadsheet.
 
