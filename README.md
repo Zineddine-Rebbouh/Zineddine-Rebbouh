@@ -1,8 +1,8 @@
 # Hi, I'm Zineddine Rebbouh 👋
 
 <p>
-  <a href="README.fr.md"><img src="https://img.shields.io/badge/🇫🇷-Français-2ea44f?style=for-the-badge" /></a>
-  <a href="README.ar.md"><img src="https://img.shields.io/badge/🇸🇦-العربية-2ea44f?style=for-the-badge" /></a>
+  <a href="README.fr.md"><img src="https://img.shields.io/badge/FR-FRANCAIS-2ea44f?style=for-the-badge" /></a>
+  <a href="README.ar.md"><img src="https://img.shields.io/badge/AR-ARABIC-ea44f?style=for-the-badge" /></a>
 </p>
 
 Full-stack developer from Touggourt, Algeria. Currently spending most of my time on data science and data engineering (ML pipelines, MLOps, production deployments). I still build web apps when I want something people can actually click.
