@@ -1,93 +1,75 @@
-<div dir="rtl">
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:91AB8C,50:3E5C50,100:D9C589&height=200&section=header&text=Zineddine%20Rebbouh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26amp%3B%20ML%20Engineer&descAlignY=55&descSize=20)
 
-# مرحبًا، أنا زين الدين ربوح 👋
-
-<p>
-  <a href="README.md"><img src="https://img.shields.io/badge/🇬🇧-English-2ea44f?style=for-the-badge" /></a>
-  <a href="README.fr.md"><img src="https://img.shields.io/badge/🇫🇷-Français-2ea44f?style=for-the-badge" /></a>
+<p align="center">
+  <a href="README.md">🇬🇧 English</a> •
+  <a href="README.ar.md">🇸🇦 العربية</a> •
+  <a href="README.fr.md">🇫🇷 Français</a>
 </p>
 
-مطوّر full-stack من تقرت، الجزائر. أقضي حاليًا معظم وقتي في علم البيانات وهندسة البيانات (خطوط أنابيب التعلّم الآلي، MLOps، النشر في بيئة الإنتاج). ما زلت أطوّر تطبيقات ويب عندما أرغب في بناء شيء يمكن للناس استخدامه فعليًا.
+<img align="right" width="280" alt="Coding" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-متاح للعمل الحر، التدريب، والتعاون.
+# مرحباً، أنا زين الدين ربوح <img width="30" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand">
 
-🌍 تقرت، الجزائر &nbsp;|&nbsp; 🌱 الذكاء الاصطناعي / علم البيانات / هندسة البيانات &nbsp;|&nbsp; 📫 [zinedinerabouh@gmail.com](mailto:zinedinerabouh@gmail.com) &nbsp;|&nbsp; 👨‍💻 [الموقع الشخصي](https://zinedine-rebbouh-portfolio-website.vercel.app) &nbsp;|&nbsp; 📄 [السيرة الذاتية](https://github.com/user-attachments/files/27443817/Zineddine_Rebbouh_CV_Fullstack.docx)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=91AB8C&center=true&vCenter=true&width=600&lines=AI+%26amp%3B+ML+Engineer;I+see+a+problem%2C+I+build+the+fix;I+ship+what+I+train;Fast+learner%2C+faster+shipper)](https://git.io/typing-svg)
 
-## ما الذي بنيته
+أرى المشكلة، فأبني الحل الذي يعالجها. طعام يُهدر، رياضيون لا يستطيعون تحمّل تكلفة أدوات التتبّع الاحترافية، شركات لا يرد أحد على هاتفها في الثانية صباحاً. أنا مهندس مركّز على الذكاء الاصطناعي وتعلّم الآلة، وخلفيتي في التطوير الشامل (full-stack) هي سبب أنني أشحن النموذج بنفسي بدلاً من تسليمه لشخص آخر لنشره. لديك فكرة أولية؟ سأبنيها، أشحنها، وأبقيها تعمل.
 
-على صعيد الويب: منصة تجارة إلكترونية متعددة البائعين (MERN)، تطبيق لإدارة الفنادق مع اختبارات Playwright، روبوت محادثة بالذكاء الاصطناعي للتسويق عبر البريد الإلكتروني (Next.js + Stripe + Pusher)، وتطبيق سفر بلغة Flutter. بُنيت أثناء دراستي الجامعية كود ليس مثاليًا لكنه يعمل بالكامل.
+منفتح على وظائف بدوام كامل، عمل حر، وأي شيء يبدأ بمشكلة صعبة.
 
-على صعيد البيانات، وهو ما أخصص له معظم وقتي حاليًا:
-- تجزئة العملاء باستخدام K-Means + PCA
-- خط أنابيب MLOps كامل للتنبؤ بالبيع التكميلي في التأمين (تتبع التجارب، Docker، النشر)
-- التنبؤ بمبيعات Walmart باستخدام LightGBM/XGBoost
-- التعرف على لافتات المرور باستخدام الشبكات العصبية التلافيفية (CNN)
-- منصة لرصد الاتجاهات الرياضية العربية في الوقت الفعلي
+📫 [zinedinerabouh@gmail.com](mailto:zinedinerabouh@gmail.com) &nbsp;|&nbsp; 👨‍💻 [الموقع الشخصي](https://zinedine-rebbouh-portfolio-website.vercel.app) &nbsp;|&nbsp; 📄 [السيرة الذاتية](https://raw.githubusercontent.com/Zineddine-Rebbouh/Zineddine-Rebbouh/main/docs/Zineddine_Rebbouh_CV.pdf)
 
-كما أتابع حاليًا LLM Zoomcamp: RAG، والوكلاء الذكية (Agentic AI)، وما شابه.
+<br clear="right"/>
 
-</div>
+![divider](https://capsule-render.vercel.app/api?type=transparent&height=30&section=footer)
+
+## ⭐ مشاريع مميزة
+
+أتصدّر بالذكاء الاصطناعي وتعلّم الآلة، لكنني وصلت إلى هناك عبر سنوات من العمل الشامل (full-stack)، وهذا على الأرجح سبب أنني ما زلت مهتماً بأن يعمل الشيء فعلاً بعد انتهاء العرض التوضيحي.
+
+معظم وظائف الذكاء الاصطناعي وتعلّم الآلة لم تعد مجرد "بناء نموذج". على أحدهم أن يغلّف النموذج داخل واجهة برمجية، يحوّله إلى حاويات (containerize)، يمنعه من الانهيار تحت الحمل الحقيقي، ويصلحه حين ينهار. الكثير من الفرق لم تعد تريد تقسيم هذا العمل بين شخصين. يريدون من بنى النموذج أن يكون أيضاً من يستطيع شحنه وامتلاكه. هذه هي الفجوة التي تملؤها خلفيتي البرمجية.
+
+**[Tawfir](https://github.com/Zineddine-Rebbouh/tawfir-app)** · [تطبيق الجوال](https://github.com/Zineddine-Rebbouh/anti_food_waste_app) · [الخلفية البرمجية](https://github.com/Zineddine-Rebbouh/backend-anti-waste-food)
+مشروعي الرئيسي. أصحاب المتاجر الصغيرة يرمون طعاماً ما زال صالحاً للبيع لأنه لا توجد وسيلة سريعة لخفض سعره قبل انتهاء صلاحيته. Tawfir يقرأ درجة الطزاجة من صورة، يطابق الفائض مع مشترين قريبين، ويتعامل مع معظم أسئلة الزبائن دون تدخل بشري.
+
+**[نظام تحليلات كرة القدم](https://github.com/Zineddine-Rebbouh/football-project-analysis)**
+بيانات التتبّع الاحترافية تكلّف أكثر مما ستنفقه معظم الأندية، فحاولت محاكاتها بكاميرا عادية. النتيجة أفضل مما توقعت. تحليل كامل لسرعة اللاعبين ومواقعهم، مباشرة من لقطات المباراة الخام.
+
+**[التعرّف على لغة الإشارة](https://github.com/Zineddine-Rebbouh/Sign-Language-Recognition--SLR-)**
+يترجم لغة الإشارة إلى نص في الوقت الفعلي. الهدف كان بسيطاً: لا ينبغي أن تتوقف المحادثة لينتظر أحدهم أن يكتب.
+
+**[كشف الاتجاهات الرياضية اللحظي](https://github.com/Zineddine-Rebbouh/real-time-sports-trend-detection-main)**
+لا يوجد تقريباً ما يتتبّع اللحظات الرياضية الرائجة باللغة العربية. هذا المشروع يفعل ذلك، لحظة وقوعها، لا بعد ساعة.
+
+**[منصة عقارات](https://github.com/Zineddine-Rebbouh/real-estate-applicaiton)**
+البحث عن منزل مرهق أصلاً، فلا داعي لموقع سيئ يزيده إرهاقاً. المشترون يتصفحون ويحفظون العروض؛ والوكلاء يحصلون على أدوات حقيقية لإدارة عروضهم، بدلاً من جدول بيانات.
+
+**[متجر إلكتروني متعدد البائعين](https://github.com/Zineddine-Rebbouh/e-commerce-multivendor-web-application)**
+سوق واحد، بائعون مستقلون كثر. كل بائع يحصل على متجره الخاص دون أن يكتب سطر كود واحد؛ وكل مشترٍ يُتم عملية الدفع مرة واحدة، مهما كان عدد المتاجر التي اشترى منها.
+
+**[Savora](https://github.com/Zineddine-Rebbouh/savora_cook_smarter)**
+تطبيقات الطبخ عادة تنسى أن يديك مغطاتان بالدقيق. Savora يستورد الوصفة، يقارنها بما هو موجود فعلاً في مؤونتك، ويبقى قابلاً للاستخدام دون لمس الشاشة أثناء الطبخ.
+
+**[Corinna AI](https://github.com/Zineddine-Rebbouh/saas-ai-chatbot)**
+معظم الشركات الصغيرة لا تستطيع تشغيل مكتب مبيعات على مدار الساعة. هذا أقرب شيء لذلك: روبوت محادثة بالذكاء الاصطناعي قابل للتضمين، يؤهّل العملاء المحتملين، يحجز المواعيد، يستقبل الدفع، ولا يستدعي إنساناً إلا حين تتطلب المحادثة ذلك فعلاً.
+
+لم يكن أي من هذا واجباً مدرسياً. اخترت المشكلة، ثم بنيت الحل. هذا هو الجزء من هذا العمل الذي أود الاستمرار فيه، لكن هذه المرة مع فريق وميزانية حقيقية بدلاً من حاسوب محمول وعناد.
 
 ---
 
-<table width="100%">
-  <tr>
-    <td align="center" width="25%">
-      <a href="https://linkedin.com/in/zineddine-rebbouh" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" />
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://fb.com/zineddine.rebbouh" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="35" width="45" />
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://instagram.com/rebbouh_zineddine" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="45" />
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://discord.gg/zineddine_rebbouh" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="35" width="45" />
-      </a>
-    </td>
-  </tr>
-</table>
+## الأدوات التقنية
 
----
-
-<div dir="rtl">
-
-## الأدوات والتقنيات
-
-</div>
-
-### Programming & Frameworks:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django Rest Framework](https://img.shields.io/badge/DRF-FF1709?style=for-the-badge&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Machine Learning & AI:
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+### الذكاء الاصطناعي وتعلّم الآلة
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-2980B9?style=for-the-badge&logo=lightgbm&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![FAISS](https://img.shields.io/badge/FAISS-00A1E4?style=for-the-badge&logo=meta&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
@@ -95,7 +77,21 @@
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### Data Engineering:
+### هندسة البرمجيات
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django Rest Framework](https://img.shields.io/badge/DRF-FF1709?style=for-the-badge&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### هندسة البيانات
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
@@ -103,18 +99,22 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools & Platforms:
+### لغات البرمجة
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### أدوات أخرى
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-
-### Other:
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
@@ -123,32 +123,16 @@
 
 ---
 
-<div dir="rtl">
-
 ## إحصائيات GitHub
 
-</div>
-
-![](https://github-readme-stats.vercel.app/api?username=Zineddine-Rebbouh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=Zineddine-Rebbouh&show_icons=true&theme=dark&hide_border=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zineddine-Rebbouh&layout=compact&theme=dark&hide_border=false&langs_count=8)
 ![](https://nirzak-streak-stats.vercel.app/?user=Zineddine-Rebbouh&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zineddine-Rebbouh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-profile-trophy.vercel.app/?username=Zineddine-Rebbouh&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1)
 
 ---
 
-<div dir="rtl">
-
-## جوائز GitHub
-
-</div>
-
-![](https://github-profile-trophy.vercel.app/?username=Zineddine-Rebbouh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-<div dir="rtl">
-
-### اقتباس مطوّر
-
-</div>
-
+### اقتباس المطوّرين
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:91AB8C,50:3E5C50,100:D9C589&height=120&section=footer)
