@@ -19,9 +19,6 @@
 📫 [zinedinerabouh@gmail.com](mailto:zinedinerabouh@gmail.com) &nbsp;|&nbsp; 👨‍💻 [الموقع الشخصي](https://zinedine-rebbouh-portfolio-website.vercel.app) &nbsp;|&nbsp; 📄 [السيرة الذاتية](https://raw.githubusercontent.com/Zineddine-Rebbouh/Zineddine-Rebbouh/main/docs/Zineddine_Rebbouh_CV.pdf)
 
 <br clear="right"/>
-
-![divider](https://capsule-render.vercel.app/api?type=transparent&height=30&section=footer)
-
 ## ⭐ مشاريع مميزة
 
 أتصدّر بالذكاء الاصطناعي وتعلّم الآلة، لكنني وصلت إلى هناك عبر سنوات من العمل الشامل (full-stack)، وهذا على الأرجح سبب أنني ما زلت مهتماً بأن يعمل الشيء فعلاً بعد انتهاء العرض التوضيحي.
