@@ -4,13 +4,11 @@
 
 # Hi, I'm Zineddine Rebbouh <img width="30" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=91AB8C&center=true&vCenter=true&width=600&lines=AI+%26amp%3B+ML+Engineer;I+see+a+problem%2C+I+build+the+fix;I+ship+what+I+train;Fast+learner%2C+faster+shipper)](https://git.io/typing-svg)
-
 I see a problem, I build the thing that fixes it. Food going to waste, athletes priced out of proper tracking tools, businesses with no one to answer the phone at 2am. AI & ML-focused, full-stack by background, which is why I ship the model myself instead of throwing it over the wall to whoever deploys things. Got a rough idea? I'll build it, ship it, and keep it running.
 
 Open to full-time roles, freelance work, and anything that starts with a hard problem.
 
-🌍 Touggourt, Algeria &nbsp;|&nbsp; 🌱 AI & Machine Learning & Data Science &nbsp;|&nbsp; 📫 [zinedinerabouh@gmail.com](mailto:zinedinerabouh@gmail.com) &nbsp;|&nbsp; 👨‍💻 [Portfolio](https://zinedine-rebbouh-portfolio-website.vercel.app) &nbsp;|&nbsp; 📄 [Resume](https://github.com/user-attachments/files/27443817/Zineddine_Rebbouh_CV_Fullstack.docx)
+🌍 Touggourt, Algeria &nbsp;|&nbsp; 📫 [zinedinerabouh@gmail.com](mailto:zinedinerabouh@gmail.com) &nbsp;|&nbsp; 👨‍💻 [Portfolio](https://zinedine-rebbouh-portfolio-website.vercel.app) &nbsp;|&nbsp; 📄 [Resume](https://github.com/user-attachments/files/27443817/Zineddine_Rebbouh_CV_Fullstack.docx)
 
 <br clear="right"/>
 
@@ -21,8 +19,6 @@ Open to full-time roles, freelance work, and anything that starts with a hard pr
 I lead with AI & ML, but I got there by way of years of full-stack work, and honestly that's probably why I still care whether the thing actually runs after the demo ends.
 
 Most AI & ML jobs aren't really "just modeling" anymore. Someone has to wrap the model in an API, containerize it, keep it from falling over under real traffic, and fix it when it does. A lot of teams are done splitting that across two people. They want whoever built the model to also be the one who can ship and own it. That's the gap my software background fills.
-
-### 🤖 AI & Machine Learning
 
 **[Tawfir](https://github.com/Zineddine-Rebbouh/tawfir-app)** · [mobile app](https://github.com/Zineddine-Rebbouh/anti_food_waste_app) · [backend](https://github.com/Zineddine-Rebbouh/backend-anti-waste-food)
 My flagship project. Small grocers throw away food that's still sellable because there's no fast way to price it down before it expires. Tawfir reads freshness from a photo, matches surplus stock with nearby buyers, and handles most customer questions without a human touching it.
@@ -36,42 +32,27 @@ Translates sign language into text in real time. The goal was simple: a conversa
 **[Real-Time Sports Trend Detection](https://github.com/Zineddine-Rebbouh/real-time-sports-trend-detection-main)**
 Almost nothing tracks trending sports moments in Arabic. This does, as they happen, not an hour later.
 
----
+### 💻 Software & Full-Stack
+
+**[Real Estate Platform](https://github.com/Zineddine-Rebbouh/real-estate-applicaiton)**
+House hunting is already stressful enough without a bad website. Buyers browse and save listings; agents actually get tools to manage theirs, instead of a spreadsheet.
+
+**[Multi-Vendor E-Commerce](https://github.com/Zineddine-Rebbouh/e-commerce-multivendor-web-application)**
+One marketplace, many independent sellers. Every vendor gets a storefront without touching a line of code; every buyer checks out once, no matter how many shops they bought from.
+
+**[Savora](https://github.com/Zineddine-Rebbouh/savora_cook_smarter)**
+Cooking apps tend to forget you have flour on your hands. Savora imports the recipe, checks it against what's actually in your pantry, and stays hands-free through cooking mode.
+
+**[Corinna AI](https://github.com/Zineddine-Rebbouh/saas-ai-chatbot)**
+Most small businesses can't staff a 24/7 sales desk. This is the closest thing: an embeddable AI chatbot that qualifies leads, books appointments, takes payment, and only pulls in a human when the conversation actually calls for one.
 
 None of these were homework. I picked the problem, then built the thing. That's the part of this job I'd like to keep doing, just with a team and a real budget behind me instead of a laptop and stubbornness.
-
-![divider](https://capsule-render.vercel.app/api?type=transparent&height=30&section=footer)
-
-<table width="100%">
-  <tr>
-    <td align="center" width="25%">
-      <a href="https://linkedin.com/in/zineddine-rebbouh" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" />
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://fb.com/zineddine.rebbouh" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="35" width="45" />
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://instagram.com/rebbouh_zineddine" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="45" />
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://discord.gg/zineddine_rebbouh" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="35" width="45" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 ---
 
 ## Tech Stack
 
-### 🤖 AI & Machine Learning
+### AI & Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
@@ -90,7 +71,7 @@ None of these were homework. I picked the problem, then built the thing. That's 
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 💻 Software Engineering
+### Software Engineering
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
@@ -104,7 +85,7 @@ None of these were homework. I picked the problem, then built the thing. That's 
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🗄️ Data Engineering
+### Data Engineering
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
@@ -112,14 +93,14 @@ None of these were homework. I picked the problem, then built the thing. That's 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🧰 Programming Languages
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 🛠️ Other Tools
+### Other Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -142,16 +123,6 @@ None of these were homework. I picked the problem, then built the thing. That's 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zineddine-Rebbouh&layout=compact&theme=dark&hide_border=false&langs_count=8)
 ![](https://nirzak-streak-stats.vercel.app/?user=Zineddine-Rebbouh&theme=dark&hide_border=false)
 ![](https://github-profile-trophy.vercel.app/?username=Zineddine-Rebbouh&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1)
-
----
-
-## Contribution Snake 🐍
-
-<!--START_SECTION:snake-->
-![snake gif](https://raw.githubusercontent.com/Zineddine-Rebbouh/Zineddine-Rebbouh/output/github-contribution-grid-snake-dark.svg)
-<!--END_SECTION:snake-->
-
-> This animation only shows up once the snake workflow runs on your profile repo (see the separate `snake.yml` file for setup).
 
 ---
 
