@@ -4,6 +4,8 @@
 
 # Hi, I'm Zineddine Rebbouh <img width="30" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=91AB8C&center=true&vCenter=true&width=600&lines=AI+%26amp%3B+ML+Engineer;I+see+a+problem%2C+I+build+the+fix;I+ship+what+I+train;Fast+learner%2C+faster+shipper)](https://git.io/typing-svg)
+
 I see a problem, I build the thing that fixes it. Food going to waste, athletes priced out of proper tracking tools, businesses with no one to answer the phone at 2am. AI & ML-focused, full-stack by background, which is why I ship the model myself instead of throwing it over the wall to whoever deploys things. Got a rough idea? I'll build it, ship it, and keep it running.
 
 Open to full-time roles, freelance work, and anything that starts with a hard problem.
