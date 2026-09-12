@@ -10,7 +10,7 @@ I see a problem, I build the thing that fixes it. Food going to waste, athletes 
 
 Open to full-time roles, freelance work, and anything that starts with a hard problem.
 
-🌍 Touggourt, Algeria &nbsp;|&nbsp; 📫 [zinedinerabouh@gmail.com](mailto:zinedinerabouh@gmail.com) &nbsp;|&nbsp; 👨‍💻 [Portfolio](https://zinedine-rebbouh-portfolio-website.vercel.app) &nbsp;|&nbsp; 📄 [Resume](https://github.com/user-attachments/files/27443817/Zineddine_Rebbouh_CV_Fullstack.docx)
+🌍 Touggourt, Algeria &nbsp;|&nbsp; 📫 [zinedinerabouh@gmail.com](mailto:zinedinerabouh@gmail.com) &nbsp;|&nbsp; 👨‍💻 [Portfolio](https://zinedine-rebbouh-portfolio-website.vercel.app) &nbsp;|&nbsp; 📄 [Resume](https://github.com/Zineddine-Rebbouh/Zineddine-Rebbouh/blob/main/Zineddine_Rebbouh_CV.pdf)
 
 <br clear="right"/>
 
