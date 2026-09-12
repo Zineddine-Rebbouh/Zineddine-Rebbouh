@@ -2,7 +2,7 @@
 
 <p>
   <a href="README.md"><img src="https://img.shields.io/badge/🇬🇧-English-2ea44f?style=for-the-badge" /></a>
-  <a href="README.ar.md"><img src="https://img.shields.io/badge/🇸🇦-العربية-2ea44f?style=for-the-badge" /></a>
+  <a href="README.ar.md"><img src="https://img.shields.io/badge/AR-ARABIC-ea44f?style=for-the-badge" /></a>
 </p>
 
 Développeur full-stack basé à Touggourt, Algérie. Je consacre actuellement le plus clair de mon temps à la data science et à l'ingénierie des données (pipelines ML, MLOps, déploiements en production). Je continue de développer des applications web quand j'ai envie de créer quelque chose que les gens peuvent réellement utiliser.
