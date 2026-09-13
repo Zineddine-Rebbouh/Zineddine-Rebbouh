@@ -120,15 +120,6 @@ None of these were homework. I picked the problem, then built the thing. That's 
 
 ---
 
-## GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Zineddine-Rebbouh&show_icons=true&theme=dark&hide_border=false&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zineddine-Rebbouh&layout=compact&theme=dark&hide_border=false&langs_count=8)
-![](https://nirzak-streak-stats.vercel.app/?user=Zineddine-Rebbouh&theme=dark&hide_border=false)
-![](https://github-profile-trophy.vercel.app/?username=Zineddine-Rebbouh&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1)
-
----
-
 ### Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
