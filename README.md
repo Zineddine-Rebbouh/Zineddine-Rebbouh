@@ -49,6 +49,9 @@ Cooking apps tend to forget you have flour on your hands. Savora imports the rec
 **[Domainly AI](https://github.com/Zineddine-Rebbouh/saas-ai-chatbot)**
 Most small businesses can't staff a 24/7 sales desk. This is the closest thing: an embeddable AI chatbot that qualifies leads, books appointments, takes payment, and only pulls in a human when the conversation actually calls for one.
 
+**[Holidays.](https://github.com/Zineddine-Rebbouh/hotel_management_app)**
+Dual-sided booking and hotel management with payments and E2E testing.
+
 None of these were homework. I picked the problem, then built the thing. That's the part of this job I'd like to keep doing, just with a team and a real budget behind me instead of a laptop and stubbornness.
 
 ---
