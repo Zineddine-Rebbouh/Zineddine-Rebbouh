@@ -34,11 +34,11 @@ Professional tracking data costs more than most clubs will ever spend, so I trie
 **[Sign Language Recognition](https://github.com/Zineddine-Rebbouh/Sign-Language-Recognition--SLR-)**
 Translates sign language into text in real time. The goal was simple: a conversation shouldn't have to pause while someone types.
 
+**[Habitat - Real Estate Platform](https://github.com/Zineddine-Rebbouh/real-estate-applicaiton)**
+House hunting is already stressful enough without a bad website. Buyers browse and save listings; agents actually get tools to manage theirs, instead of a spreadsheet.
+
 **[Real-Time Sports Trend Detection](https://github.com/Zineddine-Rebbouh/real-time-sports-trend-detection-main)**
 Almost nothing tracks trending sports moments in Arabic. This does, as they happen, not an hour later.
-
-**[Real Estate Platform](https://github.com/Zineddine-Rebbouh/real-estate-applicaiton)**
-House hunting is already stressful enough without a bad website. Buyers browse and save listings; agents actually get tools to manage theirs, instead of a spreadsheet.
 
 **[Multi-Vendor E-Commerce](https://github.com/Zineddine-Rebbouh/e-commerce-multivendor-web-application)**
 One marketplace, many independent sellers. Every vendor gets a storefront without touching a line of code; every buyer checks out once, no matter how many shops they bought from.
